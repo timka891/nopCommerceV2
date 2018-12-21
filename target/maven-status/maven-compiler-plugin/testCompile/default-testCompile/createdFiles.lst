@@ -1,0 +1,14 @@
+com\nopCommerceV2\utilities\readConfig.class
+com\nopCommerceV2\pageObjects\ExportCustomersPage.class
+com\nopCommerceV2\pageObjects\AddCustomerPage.class
+com\nopCommerceV2\pageObjects\loginPage.class
+com\nopCommerceV2\testCases\BaseClass.class
+com\nopCommerceV2\testCases\TC_ExportTest_005.class
+com\nopCommerceV2\pageObjects\EditDeleteCustomerPage.class
+com\nopCommerceV2\testCases\TC_EditDeleteCustomer_006.class
+com\nopCommerceV2\utilities\XLUtils.class
+com\nopCommerceV2\testCases\TC_Search_004.class
+com\nopCommerceV2\testCases\TC_LoginDDT_002.class
+com\nopCommerceV2\pageObjects\SearchCustomerPage.class
+com\nopCommerceV2\utilities\Listeners.class
+com\nopCommerceV2\testCases\TC_LoginTest_001.class

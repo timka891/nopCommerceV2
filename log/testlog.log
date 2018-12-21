@@ -1,0 +1,233 @@
+2018-12-12 16:57:53,920 - eCommerce -INFO - User provided
+2018-12-12 16:57:54,112 - eCommerce -INFO - Password provided
+2018-12-12 16:57:54,243 - eCommerce -INFO - Login in Clicked
+2018-12-12 16:58:04,160 - eCommerce -INFO - Login Passed
+2018-12-12 17:11:05,553 - eCommerce -INFO - User provided
+2018-12-12 17:12:46,486 - eCommerce -INFO - User provided
+2018-12-12 17:13:25,974 - eCommerce -INFO - User provided
+2018-12-12 17:13:26,195 - eCommerce -INFO - Password provided
+2018-12-12 17:13:26,339 - eCommerce -INFO - Login in Clicked
+2018-12-12 17:13:46,091 - eCommerce -INFO - Login Passed
+2018-12-12 17:22:06,570 - eCommerce -INFO - User provided
+2018-12-12 17:22:06,757 - eCommerce -INFO - Password provided
+2018-12-12 17:22:06,877 - eCommerce -INFO - Login in Clicked
+2018-12-12 17:22:16,213 - eCommerce -INFO - Login Passed
+2018-12-12 17:25:25,475 - eCommerce -INFO - User provided
+2018-12-12 17:25:25,682 - eCommerce -INFO - Password provided
+2018-12-12 17:25:25,816 - eCommerce -INFO - Login in Clicked
+2018-12-12 17:25:35,930 - eCommerce -INFO - Login Passed
+2018-12-14 16:07:33,533 - eCommerce -INFO - User provided
+2018-12-14 16:07:33,871 - eCommerce -INFO - Password provided
+2018-12-14 16:07:34,000 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:07:45,015 - eCommerce -INFO - Login Passed
+2018-12-14 16:23:28,107 - eCommerce -INFO - User provided
+2018-12-14 16:23:28,302 - eCommerce -INFO - Password provided
+2018-12-14 16:23:28,430 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:23:37,651 - eCommerce -INFO - Login Passed
+2018-12-14 16:23:46,467 - eCommerce -INFO - User provided
+2018-12-14 16:23:46,610 - eCommerce -INFO - Password provided
+2018-12-14 16:23:49,693 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:23:54,353 - eCommerce -INFO - User provided
+2018-12-14 16:23:54,499 - eCommerce -INFO - Password provided
+2018-12-14 16:23:54,985 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:23:57,007 - eCommerce -INFO - Login Failed
+2018-12-14 16:23:57,938 - eCommerce -INFO - User provided
+2018-12-14 16:23:58,039 - eCommerce -INFO - Password provided
+2018-12-14 16:23:58,525 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:24:00,543 - eCommerce -INFO - Login Failed
+2018-12-14 16:24:01,846 - eCommerce -INFO - User provided
+2018-12-14 16:24:01,941 - eCommerce -INFO - Password provided
+2018-12-14 16:24:02,346 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:24:04,365 - eCommerce -INFO - Login Failed
+2018-12-14 16:27:29,162 - eCommerce -INFO - User provided
+2018-12-14 16:27:29,348 - eCommerce -INFO - Password provided
+2018-12-14 16:27:29,473 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:27:39,421 - eCommerce -INFO - Login Passed
+2018-12-14 16:27:46,405 - eCommerce -INFO - User provided
+2018-12-14 16:27:46,532 - eCommerce -INFO - Password provided
+2018-12-14 16:27:50,470 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:27:54,940 - eCommerce -INFO - User provided
+2018-12-14 16:27:55,052 - eCommerce -INFO - Password provided
+2018-12-14 16:27:55,521 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:27:57,957 - eCommerce -INFO - Login Failed
+2018-12-14 16:27:58,955 - eCommerce -INFO - User provided
+2018-12-14 16:27:59,052 - eCommerce -INFO - Password provided
+2018-12-14 16:27:59,503 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:28:01,874 - eCommerce -INFO - Login Failed
+2018-12-14 16:28:02,814 - eCommerce -INFO - User provided
+2018-12-14 16:28:02,908 - eCommerce -INFO - Password provided
+2018-12-14 16:28:03,394 - eCommerce -INFO - Login in Clicked
+2018-12-14 16:28:05,768 - eCommerce -INFO - Login Failed
+2018-12-15 16:56:13,827 - eCommerce -INFO - User provided
+2018-12-15 16:56:14,221 - eCommerce -INFO - Password provided
+2018-12-15 16:56:14,378 - eCommerce -INFO - Login in Clicked
+2018-12-15 16:56:24,125 - eCommerce -INFO - Login Passed
+2018-12-15 16:56:32,897 - eCommerce -INFO - User provided
+2018-12-15 16:56:33,022 - eCommerce -INFO - Password provided
+2018-12-15 16:56:36,402 - eCommerce -INFO - Login in Clicked
+2018-12-15 16:56:40,492 - eCommerce -INFO - User provided
+2018-12-15 16:56:40,617 - eCommerce -INFO - Password provided
+2018-12-15 16:56:41,183 - eCommerce -INFO - Login in Clicked
+2018-12-15 16:56:43,567 - eCommerce -INFO - Login Failed
+2018-12-15 16:56:44,736 - eCommerce -INFO - User provided
+2018-12-15 16:56:44,840 - eCommerce -INFO - Password provided
+2018-12-15 16:56:45,240 - eCommerce -INFO - Login in Clicked
+2018-12-15 16:56:47,587 - eCommerce -INFO - Login Failed
+2018-12-15 16:56:48,740 - eCommerce -INFO - User provided
+2018-12-15 16:56:48,850 - eCommerce -INFO - Password provided
+2018-12-15 16:56:49,221 - eCommerce -INFO - Login in Clicked
+2018-12-15 16:56:51,577 - eCommerce -INFO - Login Failed
+2018-12-15 16:59:30,656 - eCommerce -INFO - User provided
+2018-12-15 16:59:30,778 - eCommerce -INFO - Password provided
+2018-12-15 16:59:30,907 - eCommerce -INFO - Login in Clicked
+2018-12-15 17:01:10,828 - eCommerce -INFO - User provided
+2018-12-15 17:01:11,015 - eCommerce -INFO - Password provided
+2018-12-15 17:01:11,134 - eCommerce -INFO - Login in Clicked
+2018-12-15 17:01:20,679 - eCommerce -INFO - Login Passed
+2018-12-15 17:01:27,449 - eCommerce -INFO - User provided
+2018-12-15 17:01:27,573 - eCommerce -INFO - Password provided
+2018-12-15 17:01:30,326 - eCommerce -INFO - Login in Clicked
+2018-12-15 17:01:34,369 - eCommerce -INFO - User provided
+2018-12-15 17:01:34,496 - eCommerce -INFO - Password provided
+2018-12-15 17:01:34,933 - eCommerce -INFO - Login in Clicked
+2018-12-15 17:01:37,283 - eCommerce -INFO - Login Failed
+2018-12-15 17:01:38,752 - eCommerce -INFO - User provided
+2018-12-15 17:01:38,849 - eCommerce -INFO - Password provided
+2018-12-15 17:01:39,282 - eCommerce -INFO - Login in Clicked
+2018-12-15 17:01:41,649 - eCommerce -INFO - Login Failed
+2018-12-15 17:01:42,537 - eCommerce -INFO - User provided
+2018-12-15 17:01:42,625 - eCommerce -INFO - Password provided
+2018-12-15 17:01:43,053 - eCommerce -INFO - Login in Clicked
+2018-12-15 17:01:45,385 - eCommerce -INFO - Login Failed
+2018-12-15 17:35:41,720 - eCommerce -INFO - User name is provided
+2018-12-15 17:35:41,852 - eCommerce -INFO - password is provided
+2018-12-15 17:35:49,597 - eCommerce -INFO - providing customer details....
+2018-12-15 17:35:59,758 - eCommerce -INFO - validation started....
+2018-12-15 17:36:00,196 - eCommerce -INFO - test case passed....
+2018-12-16 14:14:37,510 - eCommerce -INFO - User provided
+2018-12-16 14:14:37,815 - eCommerce -INFO - password provided
+2018-12-16 14:14:37,988 - eCommerce -INFO - login clicked
+2018-12-16 14:14:44,465 - eCommerce -INFO - passed
+2018-12-16 14:16:16,689 - eCommerce -INFO - User provided
+2018-12-16 14:16:16,893 - eCommerce -INFO - password provided
+2018-12-16 14:16:17,033 - eCommerce -INFO - login clicked
+2018-12-16 14:16:21,818 - eCommerce -INFO - passed
+2018-12-16 14:19:25,424 - eCommerce -INFO - User provided
+2018-12-16 14:19:25,624 - eCommerce -INFO - password provided
+2018-12-16 14:19:25,739 - eCommerce -INFO - login clicked
+2018-12-16 14:19:30,421 - eCommerce -INFO - passed
+2018-12-16 14:24:09,689 - eCommerce -INFO - User provided
+2018-12-16 14:24:09,898 - eCommerce -INFO - password provided
+2018-12-16 14:24:10,035 - eCommerce -INFO - login clicked
+2018-12-16 14:24:15,267 - eCommerce -INFO - passed
+2018-12-16 14:24:16,992 - eCommerce -INFO - User provided
+2018-12-16 14:26:00,305 - eCommerce -INFO - User provided
+2018-12-16 14:26:00,494 - eCommerce -INFO - password provided
+2018-12-16 14:26:00,619 - eCommerce -INFO - login clicked
+2018-12-16 14:26:05,773 - eCommerce -INFO - passed
+2018-12-16 14:26:05,933 - eCommerce -INFO - User provided
+2018-12-16 14:26:23,618 - eCommerce -INFO - password provided
+2018-12-16 14:26:23,725 - eCommerce -INFO - login clicked
+2018-12-16 14:26:27,934 - eCommerce -INFO - passed
+2018-12-16 14:26:28,055 - eCommerce -INFO - User provided
+2018-12-16 14:26:39,384 - eCommerce -INFO - password provided
+2018-12-16 14:26:39,490 - eCommerce -INFO - login clicked
+2018-12-16 14:26:43,705 - eCommerce -INFO - passed
+2018-12-16 14:28:15,028 - eCommerce -INFO - User provided
+2018-12-16 14:28:15,205 - eCommerce -INFO - password provided
+2018-12-16 14:28:15,325 - eCommerce -INFO - login clicked
+2018-12-16 14:28:20,391 - eCommerce -INFO - passed
+2018-12-16 14:28:20,568 - eCommerce -INFO - User provided
+2018-12-16 14:28:40,600 - eCommerce -INFO - User provided
+2018-12-16 14:32:51,815 - eCommerce -INFO - User provided
+2018-12-16 14:32:51,994 - eCommerce -INFO - password provided
+2018-12-16 14:32:52,107 - eCommerce -INFO - login clicked
+2018-12-16 14:32:57,689 - eCommerce -INFO - passed
+2018-12-16 14:32:57,901 - eCommerce -INFO - User provided
+2018-12-16 14:33:11,579 - eCommerce -INFO - password provided
+2018-12-16 14:33:11,701 - eCommerce -INFO - login clicked
+2018-12-16 14:33:16,148 - eCommerce -INFO - passed
+2018-12-16 14:33:16,259 - eCommerce -INFO - User provided
+2018-12-16 14:33:21,648 - eCommerce -INFO - password provided
+2018-12-16 14:33:21,764 - eCommerce -INFO - login clicked
+2018-12-16 14:33:54,344 - eCommerce -INFO - User provided
+2018-12-16 14:33:54,520 - eCommerce -INFO - password provided
+2018-12-16 14:33:54,646 - eCommerce -INFO - login clicked
+2018-12-16 14:33:59,995 - eCommerce -INFO - passed
+2018-12-16 14:34:04,328 - eCommerce -INFO - User provided
+2018-12-16 14:34:04,472 - eCommerce -INFO - password provided
+2018-12-16 14:34:04,563 - eCommerce -INFO - login clicked
+2018-12-16 14:34:07,986 - eCommerce -INFO - passed
+2018-12-16 14:34:08,099 - eCommerce -INFO - User provided
+2018-12-16 20:07:07,968 - eCommerce -INFO - User provided
+2018-12-16 20:07:08,665 - eCommerce -INFO - password provided
+2018-12-16 20:07:08,807 - eCommerce -INFO - login clicked
+2018-12-16 20:07:16,199 - eCommerce -INFO - passed
+2018-12-16 20:07:21,567 - eCommerce -INFO - User provided
+2018-12-16 20:07:21,717 - eCommerce -INFO - password provided
+2018-12-16 20:07:21,824 - eCommerce -INFO - login clicked
+2018-12-16 20:07:25,747 - eCommerce -INFO - passed
+2018-12-16 20:07:30,235 - eCommerce -INFO - User provided
+2018-12-16 20:07:30,397 - eCommerce -INFO - password provided
+2018-12-16 20:07:30,504 - eCommerce -INFO - login clicked
+2018-12-16 20:07:34,668 - eCommerce -INFO - passed
+2018-12-17 16:59:39,397 - eCommerce -INFO - user provided
+2018-12-17 16:59:39,593 - eCommerce -INFO - password passed
+2018-12-17 16:59:43,169 - eCommerce -INFO - login clicked
+2018-12-17 17:03:03,616 - eCommerce -INFO - user provided
+2018-12-17 17:03:03,743 - eCommerce -INFO - password passed
+2018-12-17 17:03:07,108 - eCommerce -INFO - login clicked
+2018-12-17 17:04:57,213 - eCommerce -INFO - user provided
+2018-12-17 17:04:57,358 - eCommerce -INFO - password passed
+2018-12-17 17:05:00,727 - eCommerce -INFO - login clicked
+2018-12-17 17:05:43,712 - eCommerce -INFO - user provided
+2018-12-17 17:05:43,852 - eCommerce -INFO - password passed
+2018-12-17 17:05:47,014 - eCommerce -INFO - login clicked
+2018-12-17 17:07:27,591 - eCommerce -INFO - user provided
+2018-12-17 17:07:27,778 - eCommerce -INFO - password passed
+2018-12-17 17:07:31,082 - eCommerce -INFO - login clicked
+2018-12-17 17:23:18,675 - eCommerce -INFO - user provided
+2018-12-17 17:23:18,808 - eCommerce -INFO - password passed
+2018-12-17 17:23:22,182 - eCommerce -INFO - login clicked
+2018-12-17 17:24:44,257 - eCommerce -INFO - user provided
+2018-12-17 17:24:44,404 - eCommerce -INFO - password passed
+2018-12-17 17:24:48,240 - eCommerce -INFO - login clicked
+2018-12-17 17:27:32,916 - eCommerce -INFO - user provided
+2018-12-17 17:27:33,063 - eCommerce -INFO - password passed
+2018-12-17 17:27:35,857 - eCommerce -INFO - login clicked
+2018-12-17 17:28:18,159 - eCommerce -INFO - user provided
+2018-12-17 17:28:18,293 - eCommerce -INFO - password passed
+2018-12-17 17:28:21,364 - eCommerce -INFO - login clicked
+2018-12-17 17:31:14,657 - eCommerce -INFO - user provided
+2018-12-17 17:31:14,783 - eCommerce -INFO - password passed
+2018-12-17 17:31:18,076 - eCommerce -INFO - login clicked
+2018-12-17 17:31:19,908 - eCommerce -INFO - check box selected
+2018-12-17 17:31:22,064 - eCommerce -INFO - export dropdown ting clicked
+2018-12-17 18:02:59,167 - eCommerce -INFO - login passed
+2018-12-17 18:03:00,443 - eCommerce -INFO - customers page 
+2018-12-17 18:03:02,218 - eCommerce -INFO - edit customer clicked
+2018-12-17 18:03:02,388 - eCommerce -INFO - edited company info
+2018-12-17 18:03:03,629 - eCommerce -INFO - customer saved
+2018-12-17 18:03:03,685 - eCommerce -INFO - passed
+2018-12-17 18:03:10,048 - eCommerce -INFO - login passed
+2018-12-17 18:03:11,446 - eCommerce -INFO - customers page 
+2018-12-17 18:03:12,916 - eCommerce -INFO - edit customer clicked
+2018-12-17 18:03:13,025 - eCommerce -INFO - deleting
+2018-12-17 18:03:14,347 - eCommerce -INFO - confirm delete
+2018-12-17 18:03:14,398 - eCommerce -INFO - passed
+2018-12-17 18:58:40,662 - eCommerce -INFO - User provided
+2018-12-17 18:58:40,865 - eCommerce -INFO - Password provided
+2018-12-17 18:58:41,008 - eCommerce -INFO - Login in Clicked
+2018-12-17 18:58:50,840 - eCommerce -INFO - Login Passed
+2018-12-19 12:35:04,743 - eCommerce -INFO - User provided
+2018-12-19 12:35:04,997 - eCommerce -INFO - Password provided
+2018-12-19 12:35:05,102 - eCommerce -INFO - Login in Clicked
+2018-12-19 12:35:14,379 - eCommerce -INFO - Login Passed
+2018-12-21 09:35:36,391 - eCommerce -INFO - User provided
+2018-12-21 09:35:37,086 - eCommerce -INFO - Password provided
+2018-12-21 09:35:37,283 - eCommerce -INFO - Login in Clicked
+2018-12-21 09:35:50,647 - eCommerce -INFO - Login Passed
+2018-12-21 09:44:23,243 - eCommerce -INFO - User provided
+2018-12-21 09:44:23,488 - eCommerce -INFO - Password provided
+2018-12-21 09:44:23,646 - eCommerce -INFO - Login in Clicked
+2018-12-21 09:44:34,384 - eCommerce -INFO - Login Passed
